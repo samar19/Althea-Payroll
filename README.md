@@ -1,18 +1,9 @@
 <br/>
 
-# GRIFFIN
+# Althea Payroll
 
-> **`GRIFFIN`** is Private crypto payroll all-in-one solution for web3 organizations. It is also **`the first DAPP project`** based on Polygon Nightfall.
+> **`Althea Payroll`** is Private crypto payroll all-in-one solution for web3 organizations. It is also **`the first DAPP project`** based on Polygon Nightfall and ALthea L1 SDK.
 
-<h1 align="center"> 
-<img src="https://i.ibb.co/QcSzxtr/Thumb-6.png" alt="Thumb-6" border="0">
-    <div align="center">
-
-[![GitHub Open Issues](https://img.shields.io/github/issues-raw/rkdud007/griffin.app?color=green)](https://github.com/skkugoon/GriffinBackend/issues)
-[![GitHub Closed Issues](https://img.shields.io/github/issues-closed-raw/rkdud007/griffin.app?color=red)](https://github.com/skkugoon/GriffinBackend/issues?q=is%3Aissue+is%3Aclosed)
-[![GitHub Open PR](https://img.shields.io/github/issues-pr-raw/rkdud007/griffin.app?color=green)](https://github.com/skkugoon/GriffinBackend/pulls)
-[![GitHub Closed PR](https://img.shields.io/github/issues-pr-closed-raw/rkdud007/griffin.app?color=red)](https://github.com/skkugoon/GriffinBackend/pulls?q=is%3Apr+is%3Aclosed)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 </div>
   
@@ -53,13 +44,13 @@ So existing crypto payroll services do not meet the company's needs regarding th
 
 ## ✏️ Main Feature
 
-### ✅ Griffin Payroll Dashboard
+### ✅ Payroll Dashboard
 
 <a href="https://ibb.co/mCt4Gp1"><img  src="https://i.ibb.co/1fKTLch/main.png" alt="2022-01-28-2-09-58" border="0"></a>
 
-Griffin Payroll Dashboard provides Web3 Organizations with the most essential and cleanest UX while processing All Payroll transactions privately on Griffin Payroll Dashboard.
+Payroll Dashboard provides Web3 Organizations with the most essential and cleanest UX while processing All Payroll transactions privately on Griffin Payroll Dashboard.
 
-On The Griffin Payroll Dashboard, you can open the Private Crypto Payroll Payment Approval window with one click and view the wallet balance along with simply visualized statistics like estimated Payroll payment total and payment details.
+On The Payroll Dashboard, you can open the Private Crypto Payroll Payment Approval window with one click and view the wallet balance along with simply visualized statistics like estimated Payroll payment total and payment details.
 
 ### ✅ Employees Management
 
@@ -79,23 +70,15 @@ Griffin Payroll supports multiple payment options including various cryptocurren
 
 First of all, Polygon Nightfall is a very new chain. Since the SDK is not completely created at the moment, in order to create a DAPP, we should actually need to run the Proposal and Client from Nightfall directly on our local computer. There were no documents or tutorials for development, so we solved all the errors and debugging by asking the Polygon Nightfall team directly via Telegram.
 
-The installation of Nightfall on the local computer took almost two days to resolve the error. In the process, we learned that the nightfall works on the docker, and that the docker specification needs to be maximized to run the nightfall. In addition, in the process of connecting Griffin Web Front and Nightfall, we tried various things such as putting it directly into the node module with npm link, and found that the Nightfall SDK was not optimized for browsers, so we had to apply the Web3 Provider to the SDK.
+The installation of Nightfall on the local computer took almost two days to resolve the error. In the process, we learned that the nightfall works on the docker, and that the docker specification needs to be maximized to run the nightfall. In addition, in the process of connecting Web Front and Nightfall, we tried various things such as putting it directly into the node module with npm link, and found that the Nightfall SDK was not optimized for browsers, so we had to apply the Web3 Provider to the SDK.
 
 <br>
 
-## Members 👯‍♀️
-
-|                          💻 FRONT                          |                                    💻 FRONT                                    |                            ⚙️ BACK                             |                               ⚙️ NIGHTFALL                               |                                           👨‍🎨 DESIGN                                            |
-| :--------------------------------------------------------: | :----------------------------------------------------------------------------: | :------------------------------------------------------------: | :----------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------: |
-| ![hello](https://i.ibb.co/XbJwr4c/2022-08-11-10-56-11.png) | ![KakaoTalk_Video_2022-01-27-21-40-41_1](https://i.ibb.co/DVGqPgh/1883877.png) | ![ezgif com-gif-maker](https://i.ibb.co/QQZtz25/dumbcat-1.png) | ![ezgif com-gif-maker](https://i.ibb.co/tqWFcZ0/2022-08-11-11-42-44.png) | ![KakaoTalk_Video_2022-01-27-21-40-34](https://i.ibb.co/2MFTxVv/photo-2022-08-11-10-45-42.jpg) |
-|           [Pia 🍊](https://github.com/rkdud007)            |                  [Vincent 🐿](https://github.com/vincentlaucy)                  |            [Sangil 🐱](https://github.com/SKKUGoon)            |                  [Julia 🐨](https://github.com/jbae49)                   |                                           JB Won 🐨                                            |
-
-<br>
 
 ## Installation
 
 ```bash
-$ cd griffin_front
+$ cd althea-payroll
 $ yarn
 $ yarn dev
 ```
