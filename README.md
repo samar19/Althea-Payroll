@@ -19,13 +19,6 @@
 </h1>
     📆 2022.07.31 ~ Ongoing
 
-#### 📩 [Deployed Webapp](https://griffin-app.vercel.app/)
-
-#### 📩 [Landing Page](https://griffinpay.xyz/)
-
-- 🔗 [FrontEnd Github](hhttps://github.com/rkdud007/griffin.app)
-- 🐳 [BackEnd Github](https://github.com/SKKUGoon/GriffinBackend)
-- 🐳 [Nightfall Github](https://github.com/EYBlockchain/nightfall_3)
 
 <br>
 <br>
@@ -46,21 +39,15 @@ So existing crypto payroll services do not meet the company's needs regarding th
 
 ### ✅ Payroll Dashboard
 
-<a href="https://ibb.co/mCt4Gp1"><img  src="https://i.ibb.co/1fKTLch/main.png" alt="2022-01-28-2-09-58" border="0"></a>
-
 Payroll Dashboard provides Web3 Organizations with the most essential and cleanest UX while processing All Payroll transactions privately on Griffin Payroll Dashboard.
 
 On The Payroll Dashboard, you can open the Private Crypto Payroll Payment Approval window with one click and view the wallet balance along with simply visualized statistics like estimated Payroll payment total and payment details.
 
 ### ✅ Employees Management
 
-<a href="https://ibb.co/jDFj4SP"><img  src="https://i.ibb.co/HqQ9gjf/list.png" alt="2022-01-28-2-11-36" border="0"></a>
-
 Register employees to GRIFFIN simply by entering their information. Only by registering Employees, you can process repeated multiple monthly payrolls at once easily with a few clicks, and can see at a glance how much they're getting paid.
 
 ### ✅ Send payroll in preferred currency, get paid in crypto
-
-<a href="https://ibb.co/Qk995ZT"><img src="https://i.ibb.co/gdyynGf/pay.png" alt="2022-01-28-2-12-22" border="0"></a>
 
 Griffin Payroll supports multiple payment options including various cryptocurrencies and even with NFTs. It provides payment options in the currency preferred by the recipient. ex) ETH, USDC (ERC-20), USD (Fiat), NFTs (ERC-721) etc
 
